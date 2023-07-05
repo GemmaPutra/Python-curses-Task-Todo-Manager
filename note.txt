@@ -1,0 +1,7 @@
+Hey,
+
+Just a quick note about my coding project. It's my first time working on something this big, and as a beginner, I apologize if there are any mistakes along the way. I'm working on a task/todo manager in the terminal using the curses module.
+Working with curses has been challenging but exciting. Taking on a project of this scale has been a significant undertaking, but I'm proud of myself for diving in headfirst. It's taught me so much about managing complex systems and organizing tasks.
+There's still work to be done, but I wanted to take a moment to celebrate the progress I've made. I might revisit this project again later but not now.
+
+Cheers
